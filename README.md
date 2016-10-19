@@ -108,7 +108,7 @@ JSON Schemaの定義からドキュメント、モック、入力値検閲機能
 
 ## [github-stream](https://github.com/r7kamura/github-stream)
 
-GitHubの通知を高速に確認するためのChrome拡張。。
+GitHubの通知を高速に確認するためのChrome拡張。
 
 ## [stackable-fetcher](https://github.com/r7kamura/stackable-fetcher)
 
