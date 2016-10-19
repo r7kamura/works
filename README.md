@@ -276,7 +276,7 @@ DoCoMoの雑談APIを利用してbotと雑談できるようになるchat-bot用
 
 ## [response_code_matchers](https://github.com/r7kamura/response_code_matchers)
 
-`should be_unauthorized` のようにHTTPのステータスコードに対するテストがちょっとお洒落になるかもしれないテスト用ヘルパー。
+HTTPのステータスコードに対するテストがちょっとお洒落になるかもしれないテスト用ヘルパー。
 
 ## [mem](https://github.com/r7kamura/mem)
 
