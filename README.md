@@ -1,6 +1,6 @@
 # Works
 
-履歴書の代わりに、過去につくって公開したものを紹介します。
+過去につくったものを紹介します。
 
 ## [somemoji](https://github.com/r7kamura/somemoji)
 
