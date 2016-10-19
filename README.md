@@ -6,10 +6,6 @@
 
 様々なオープンライセンスの絵文字を汎用的に扱うためのライブラリ。
 
-## megaboard
-
-21世紀のためのモダンな掲示板。
-
 ## [yoptparse](https://github.com/r7kamura/yoptparse)
 
 Rubyのコードからコマンドラインツールを自動生成するためのライブラリ。
