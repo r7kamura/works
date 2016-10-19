@@ -82,10 +82,6 @@ RubyでSplatoonの画面を解析して戦績とかを解析するやつ。
 
 CSSが使えないHTMLメールのために、要素の属性だけで表現した同等のHTMLに変換するライブラリ。
 
-## [chanko](https://github.com/cookpad/chanko)
-
-実験的機能などを本体コードから分離して段階的に公開していくためのRails用プラグイン。
-
 ## [autodoc](https://github.com/r7kamura/autodoc)
 
 テストコードからドキュメントを自動生成するツール。
