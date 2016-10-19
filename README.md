@@ -152,7 +152,7 @@ Amazonが公式でAPI Gateway用のライブラリを提供していなかった
 
 ## [ruboty-cron](https://github.com/r7kamura/ruboty-cron)
 
-ruboty-twitter_searchなどと組み合わせると強力な、指定したスケジュールで何らかの命令を実行できるようになるchat-bot用プラグイン。
+指定したスケジュールで何らかの命令を実行できるようになるchat-bot用プラグイン。
 
 ## [cycle-fetcher-driver](https://github.com/r7kamura/cycle-fetcher-driver)
 
