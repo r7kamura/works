@@ -30,6 +30,22 @@ amakan用のサンプルモバイルアプリ。
 
 DSLを使わずにサーバを構築するための自動化ツール。
 
+## [qiita-markdown](https://github.com/increments/qiita-markdown)
+
+Qiitaで利用しているMarkdown変換処理用のライブラリ。
+
+## [qiita-elasticsearch](https://github.com/increments/qiita-elasticsearch)
+
+Qiitaで利用している検索文字列からElasticsearchの検索クエリを生成するためのライブラリ。
+
+## [qiitan-rb](https://github.com/increments/qiitan-rb)
+
+Increments社で飼っているchat-bot。
+
+## [qiita-notifications](https://github.com/increments/qiita-notifications)
+
+Qiitaの通知を確認するためのブラウザ拡張。
+
 ## [weak_parameters](https://github.com/r7kamura/weak_parameters)
 
 コントローラで入力値のバリデーションを行うためのRails用プラグイン。
